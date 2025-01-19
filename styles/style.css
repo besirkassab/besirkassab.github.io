@@ -59,6 +59,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 1rem;
+    text-decoration: none;
   }
   
   .social-link {
@@ -79,6 +80,7 @@ body {
     left: 50%;
     bottom: -5px;
     transition: width 0.3s ease, left 0.3s ease;
+    text-decoration: none;
   }
   
   .social-link:hover {
